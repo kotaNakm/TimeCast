@@ -51,7 +51,7 @@ Given a labelled collection $\mathcal{D} = \{(X_{v,:t},\tau_{v,t})\}_{v,t=1}^{V,
 TimeCast solves:
 
 $$
-\argmax_{\Theta, S \nearrow_{t}}
+\operatorname*{argmax}_{\Theta, S \nearrow_{t}}
 \sum_{k=1}^{K}
 \underbrace{\Psi_d\!\left(\mathcal{D} \mid \theta^{(k)}, S \right)}_{\text{Descriptor}}
 +\,\beta
