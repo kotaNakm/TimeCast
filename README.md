@@ -11,7 +11,7 @@ Implementation of TimeCast.
 Fast Mining and Dynamic Time-to-Event Prediction over
 Multi-sensor Data Streams.\
 Kota Nakamura, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai.\
-The 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26).
+The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (KDD ’26).
 
 | <img src="_assets/examples.png" width=500> |
 |:--:|
