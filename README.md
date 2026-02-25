@@ -53,9 +53,9 @@ TimeCast solves:
 $$
 \arg\max_{\Theta, S \nearrow_{t}}
 \sum_{k=1}^{K}
-\underbrace{\Psi_d\!\left(\mathcal{D} \mid \theta^{(k)}, S \right)}_{\text{Descriptor}}
+\underbrace{\Psi_d \left(\mathcal{D} \mid \theta^{(k)}, S \right)}_{\text{Descriptor}}
 +\,\beta
-\underbrace{\Psi_p\!\left(\mathcal{D} \mid 
+\underbrace{\Psi_p \left(\mathcal{D} \mid 
 \theta^{(k)},S) \right)}_{\text{Predictor}}
 $$
 
